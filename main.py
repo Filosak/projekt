@@ -5,3 +5,6 @@ def is_prime(val):
         if val % i == 0:
             return False
     return True
+
+def is_palindrome(string):
+    pass
